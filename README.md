@@ -63,23 +63,26 @@ print(df1)
 ~~~
 
 ##OUTPUT:
-###Dataset:
+
+
+
+Dataset:
 ![1](https://user-images.githubusercontent.com/94588708/191963811-bee2f8c7-ce05-46e9-b28a-fcb8e5aabd25.png)
 
 
-###Discribing data:
+Discribing data:
 ![2](https://user-images.githubusercontent.com/94588708/191963949-13e0ea3c-8820-47dc-8b71-f93c4cb257e5.png)
 
-###Normalized data:
+Normalized data:
 ![3](https://user-images.githubusercontent.com/94588708/191964075-96fd10fc-1c01-4f54-bdff-61fd42fe778e.png)
 
-###X_train and Y_train values:
+X_train and Y_train values:
 ![4](https://user-images.githubusercontent.com/94588708/191964284-bc80a1e8-a6e3-46fd-948e-1acab41aecc2.png)
 
-###X and Y values:
+X and Y values:
 ![5](https://user-images.githubusercontent.com/94588708/191964357-1401392c-be0f-4221-b4a7-8575fb09d58d.png)
 
-###X_test and Y_test values:
+X_test and Y_test values:
 ![6](https://user-images.githubusercontent.com/94588708/191964418-f260849e-d19a-4a5c-8f03-efbc22855277.png)
 
 
